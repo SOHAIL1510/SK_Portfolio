@@ -1,19 +1,17 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Jun 2022 - Jun 2026",
+            "cardTitle": "B.E, Computer Engineering",
+            "cardSubtitle":"International Institute of Information Technology , Pune",
+            "cardDetailedText": "CGPA - 7.5"
+           
         },
         {
-            "title": "Apr 20XX",
+            "title": "Apr 2022",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Shri Mahavir Junior College , Lasalgaon",
+            "cardDetailedText": "Marks - 89.20%"
         }
     ]
 }
